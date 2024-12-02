@@ -18,4 +18,4 @@
 
 ![Logo](p8.png)
 
-## 6.We thanks the open source by [ultralytics]([https://github.com/](https://docs.ultralytics.com/zh))
+## 6.We thanks the open source by  [ultralytics](https://docs.ultralytics.com/zh)
