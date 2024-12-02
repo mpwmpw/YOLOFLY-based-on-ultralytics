@@ -22,7 +22,7 @@ testing YOLOFLY in real-world environments also yielded the
 best results, including a 3.75% reduction in missed detections
 at high speeds. These findings validate the superiority and
 effectiveness of YOLOFLY.
-##2 This is the overall architecture of YOLOFLY.
+## This is the overall architecture of YOLOFLY.
 ![Logo](p1.png)
 
 ![Logo](p2.png)
