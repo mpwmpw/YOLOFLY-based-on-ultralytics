@@ -1,5 +1,5 @@
 ## 0.We created YOLOFLY for implementing object detection in drone aerial photography. YOLOFLY has achieved better performance on the public dataset VisDrone. Details can be found in future publications.
-
+![Logo](p0.jpg)
 ## 1.This is the overall architecture of YOLOFLY.
 ![Logo](p1.png)
 ## 2.To achieve higher real-time detection performance, we have designed a new feature extraction module, C4f, and a lightweight detection head, DWcDetect.
