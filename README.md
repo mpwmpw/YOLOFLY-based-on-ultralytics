@@ -20,5 +20,5 @@
 
 ## 5.These are the actual test results conducted in the southern Yunnan tourist area.
 
-<img src="p8.png" width="45%" style="display:inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="p9.png" width="45%" style="display:inline-block;">
+<img src="p8.png" width="45%" style="display:inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="p9.png" height="180%" width="50%" style="display:inline-block;">
 
