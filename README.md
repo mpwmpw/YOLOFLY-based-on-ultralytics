@@ -23,3 +23,10 @@ best results, including a 3.75% reduction in missed detections
 at high speeds. These findings validate the superiority and
 effectiveness of YOLOFLY.
 ![Logo](p1.png)
+![Logo](p2.png)
+![Logo](p3.png)
+![Logo](p4.png)
+![Logo](p5.png)
+![Logo](p6.png)
+![Logo](p7.png)
+![Logo](p8.png)
